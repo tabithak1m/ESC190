@@ -1,7 +1,6 @@
 # ESC190
 
 This is a compilation of Labs done in ESC190 Computer Algorithms & Data Structures source. Labs are done in **C** and some **Python**.  
-
 #
 
 ### Lab 1: Insertion Sort
